@@ -8,9 +8,12 @@
 📍 Based in Amsterdam, The Netherlands  
 
 ## Technical Skills  
-🖥 **Programming:** Python, SQL   
+🖥 **Programming:** Python, SQL 
+
 📊 **Financial Risk & Analytics:** VaR, Monte Carlo, Derivatives
-📈 **Machine Learning:** Time Series, Gradient Boosting Models  
+
+📈 **Machine Learning:** Time Series, Classification and Regression Models
+
 ⚡ **Tools & Technologies:** Excel/VBA, Jupyter
 
 
