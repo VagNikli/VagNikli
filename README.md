@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**VagNikli/VagNikli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Evangelos Nikitsiotis!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 MSc in Business Analytics-Financial Risk Management | BSc in Mathematics
+- 💻 Passionate about Financial Risk & Quantitative Modeling
+- 📍 Based in Amsterdam, The Netherlands
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python, Excel, and SQL
+- Financial Modeling & Risk Management
+- Machine Learning & Data Science
+
+## 📫 Contact Me
+- 📧 Email: vagelisinikli@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/evangelos-nikitsiotis-23559722b)
