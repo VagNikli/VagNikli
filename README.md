@@ -1,12 +1,13 @@
 
 # 👋 Hi there, I am Evangelos Nikitsiotis!
 
-### 📊 Quantitative Finance | Risk Management | Data Science
+### Quantitative Finance | Risk Management | Data Science
 
 🚀 MSc in Business Analytics-Financial Risk Management | BSc in Mathematics 
+
 📍 Based in Amsterdam, The Netherlands  
 
----
+
 
 ## 🔧 Technical Skills  
 🖥 **Programming:** Python, SQL   
@@ -14,7 +15,6 @@
 📈 **Machine Learning:** Time Series, Gradient Boosting Models  
 ⚡ **Tools & Technologies:** Excel/VBA, Jupyter
 
----
 
 ## Recent Projects  
 📌 **[FX Option Pricing Model](https://github.com/VagNikli/FX-Option-Pricing-Model)**  
@@ -26,7 +26,6 @@ Analyzing and predicting credit risk using machine learning.
 📌 **[Equity Risk Premium Analysis](https://github.com/VagNikli/Equity-Risk-Premium)**  
 Evaluating risk premiums using historical and real-time market data.
 
----
 
 ## 🎯 Currently Working On  
 - 🔍 Developing a **Commodity Derivatives Pricing & Hedging** GitHub project  
