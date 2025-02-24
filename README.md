@@ -9,11 +9,8 @@
 
 ## Technical Skills  
 🖥 **Programming:** Python, SQL 
-
 📊 **Financial Risk & Analytics:** VaR, Monte Carlo, Derivatives
-
 📈 **Machine Learning:** Time Series, Classification and Regression Models
-
 ⚡ **Tools & Technologies:** Excel/VBA, Jupyter
 
 
