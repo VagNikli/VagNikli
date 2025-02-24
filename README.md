@@ -34,6 +34,7 @@ Evaluating risk premiums using historical and real-time market data.
 
 ## 📫 Connect with Me  
 🌍 [LinkedIn](https://www.linkedin.com/in/evangelos-nikitsiotis-23559722b) 
+
 📧 vagelisinikli@gmail.com  
 
  
