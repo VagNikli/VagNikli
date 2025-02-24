@@ -7,9 +7,7 @@
 
 📍 Based in Amsterdam, The Netherlands  
 
-
-
-## 🔧 Technical Skills  
+## Technical Skills  
 🖥 **Programming:** Python, SQL   
 📊 **Financial Risk & Analytics:** VaR, Monte Carlo, Portfolio Optimization  
 📈 **Machine Learning:** Time Series, Gradient Boosting Models  
@@ -27,7 +25,7 @@ Analyzing and predicting credit risk using machine learning.
 Evaluating risk premiums using historical and real-time market data.
 
 
-## 🎯 Currently Working On  
+## Currently Working On  
 - 🔍 Developing a **Commodity Derivatives Pricing & Hedging** GitHub project  
 - 📖 Learning **Advanced Machine Learning in Finance**  
 - 🤝 Looking for **Quantitative & Risk Analysis Roles**  
@@ -38,9 +36,4 @@ Evaluating risk premiums using historical and real-time market data.
 🌍 [LinkedIn](https://www.linkedin.com/in/evangelos-nikitsiotis-23559722b)  
 📧 vagelisinikli@gmail.com  
 
----
-
-## 🏆 GitHub Stats  
-![Evangelos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VagNikli&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VagNikli&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=VagNikli&theme=tokyonight)
+ 
