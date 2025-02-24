@@ -4,15 +4,15 @@
 ### Quantitative Finance | Risk Management | Data Science
 
 🚀 MSc in Business Analytics-Financial Risk Management | BSc in Mathematics 
-
 📍 Based in Amsterdam, The Netherlands  
 
 ## Technical Skills  
-🖥 **Programming:** Python, SQL 
+🖥 **Programming:** Python, SQL
 📊 **Financial Risk & Analytics:** VaR, Monte Carlo, Derivatives
-📈 **Machine Learning:** Time Series, Classification and Regression Models
-⚡ **Tools & Technologies:** Excel/VBA, Jupyter
 
+📈 **Machine Learning:** Time Series, Classification and Regression Models
+
+⚡ **Tools & Technologies:** Excel/VBA, Jupyter
 
 ## Recent Projects  
 📌 **[FX Option Pricing Model](https://github.com/VagNikli/FX-Option-Pricing-Model)**  
