@@ -28,7 +28,7 @@ Evaluating risk premiums using historical and market data.
 
 
 ## Currently Working On  
-- 🔍 Developing a **Commodity Derivatives Pricing & Hedging** GitHub project  
+- 🔍 Developing a **Algorithmic trading** GitHub project  
 - 📖 Learning **Advanced Machine Learning in Finance**  
 - 💡 Looking for **Quantitative & Risk Analysis Roles**  
 
